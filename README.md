@@ -19,7 +19,7 @@ El repositorio está organizado en las siguientes carpetas:
 
 ## Instrucciones de Uso
 - Clonar el repositorio:
-    git clone (https://github.com/jsmoralesc/Proyecto-ANS.git)
+    git clone ([https://github.com/jsmoralesc/Proyecto-ANS.git](https://github.com/jsmoralesc/DSA_Proyecto_AccidentesTransito.git))
 - Navegar a la carpeta Code/ para revisar y ejecutar el análisis.
 - Explorar los resultados en la carpeta Results/ para ver los gráficos y tablas generados.
 - Revisar los documentosen  carpeta Document/ para entender el contexto y objetivos del proyecto.
