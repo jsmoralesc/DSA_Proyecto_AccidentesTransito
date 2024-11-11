@@ -1,5 +1,5 @@
 outs:
-- md5: d087d2ac7de2b0c248116f3f244be831
-  size: 425896560
+- md5: 39492e3ccaf376169ee9232e07d26ed2
+  size: 214658469
   hash: md5
   path: US_Accidents_March23_v2.csv
